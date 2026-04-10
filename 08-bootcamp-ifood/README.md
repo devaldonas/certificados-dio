@@ -29,10 +29,10 @@ O bootcamp **Potência Tech iFood - Programação do Zero** foi um programa inte
 ## 🚀 Como este bootcamp impactou minha trajetória
 
 Este bootcamp foi o **ponto de partida** da minha transição de carreira para desenvolvimento de software. A partir dele:
-- Comecei a cursar **Engenharia de Software**
 - Desenvolvi meus primeiros projetos práticos
 - Criei meu portfólio no GitHub
 - Conquistei certificações complementares (Python, Banco de Dados, etc.)
+- Comecei a cursar **Engenharia de Software**
 
 ## 📌 Projetos desenvolvidos após o bootcamp
 
